@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "aed7b962-1d04-494c-bdf1-4b74e5d375d6",
+    "name": "Judith Davis",
+    "phone": "848.498.4248",
+    "email": "Annabelle_Bayer-Ortiz69@gmail.com",
+    "job": "Investor Marketing Coordinator"
+  },
+  {
+    "id": "b3312f65-80ad-4ebc-b29c-fb038eeff78e",
+    "name": "Robyn Hodkiewicz",
+    "phone": "480-262-5321 x050",
+    "email": "Berniece_Bailey26@hotmail.com",
+    "job": "Central Accountability Analyst"
+  },
+  {
+    "id": "44b16f32-73ba-46d6-b1ea-cad2979baed5",
+    "name": "Homer Leuschke",
+    "phone": "503-975-2347 x73239",
+    "email": "Brad_Wuckert12@gmail.com",
+    "job": "Global Data Strategist"
+  },
+  {
+    "id": "bd2eb2e5-5a88-4c77-ac0e-764edefd1afb",
+    "name": "Leo Swift",
+    "phone": "1-337-704-5660 x0485",
+    "email": "Kennedy11@gmail.com",
+    "job": "Customer Accounts Producer"
+  },
+  {
+    "id": "12ce054c-693d-46e8-af02-d9e64242ae22",
+    "name": "Marion Osinski",
+    "phone": "286.383.6973",
+    "email": "Karianne_Sawayn@yahoo.com",
+    "job": "Human Optimization Agent"
+  }
+]
